@@ -1,0 +1,58 @@
+# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux
+
+# Windows
+*.cab
+*.lnk
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Thumbnail Cache Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+
+._*
+Icon
+$RECYCLE.BIN/
+
+# Folder Config
+[Dd]esktop.ini
+.directory
+
+# Mac and Linux
+*~
+.Trash-*
+.DS_Store
+.AppleDouble
+.LSOverride
+*.icloud
+
+# Files created when others are removed
+.fuse_hidden*
+.nfs*
+
+
+# Volume Root Files
+.com.apple.timemachine.donotpresent
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Remote AFP
+.apdisk
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+
+# Dump file
+*.stackdump
+
+# End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux
